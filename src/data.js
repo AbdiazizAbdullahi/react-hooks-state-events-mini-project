@@ -1,5 +1,5 @@
 export const CATEGORIES = ["All", "Code", "Food", "Money", "Misc"];
-
+ 
 export const TASKS = [
   {
     text: "Buy rice",
